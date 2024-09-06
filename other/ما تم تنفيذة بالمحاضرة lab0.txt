@@ -1,0 +1,174 @@
+-
+
+C:\Users\Computer>Desktop\Abdulrahman Al-Hubaishi
+'Desktop\Abdulrahman' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Computer>cd Desktop\Abdulrahman Al-Hubaishi
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi>git init
+Initialized empty Git repository in C:/Users/Computer/Desktop/Abdulrahman Al-Hubaishi/.git/
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi>cd labs/lab0
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>echo "hi word">>name.txt
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git commit -m "repo"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Abdulrahman@Abdu.(none)')
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git commit -m "Repo"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Abdulrahman@Abdu.(none)')
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Disable this message with "git config advice.addEmptyPathspec false"
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git commit -m "Repo"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Abdulrahman@Abdu.(none)')
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Disable this message with "git config advice.addEmptyPathspec false"
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Disable this message with "git config advice.addEmptyPathspec false"
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git add .
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git commit -m "Repo"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Abdulrahman@Abdu.(none)')
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   name.txt
+
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git commit -m "repo"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Abdulrahman@Abdu.(none)')
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git commit -m "repo"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Abdulrahman@Abdu.(none)')
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git config --global user.email "abdu00002015@gmail.com"
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git commit -m "repo"
+[master (root-commit) ca1c081] repo
+ 1 file changed, 1 insertion(+)
+ create mode 100644 labs/lab0/name.txt
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   name.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git config --global user.name
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>git config --global user.name "Abdulrahman Al-Hubaishi"
+
+C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\lab0>
