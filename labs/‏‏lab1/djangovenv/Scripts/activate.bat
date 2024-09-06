@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Computer\Desktop\Abdulrahman Al-Hubaishi\labs\‏‏lab1\djangovenv
+set VIRTUAL_ENV=C:\Users\Computer\Desktop\Abdulrahman-Al-Hubaishi\labs\‏‏lab1\djangovenv
 
 if not defined PROMPT set PROMPT=$P$G
 
